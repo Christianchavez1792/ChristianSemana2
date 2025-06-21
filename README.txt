@@ -1,0 +1,14 @@
+Etiquetas utilizadas:
+- Header: Para el encabezado
+- Main: Para el cuerpo de la web, información importante.
+- Footer: Para el pie de página
+- div: Para crear bloques de contenido en header, main y footer
+- img: Para el logo de la página y las imágenes de la web
+- h1: Para títulos
+- nav: Para el menú de navegación
+- ul: Para listas no ordenadas
+- li: Para listar los enlaces.
+- button: Para botones
+- Section: Para definir las secciones.
+- P: Para párrafo.
+- br: Para dar espacio entre secciones 
